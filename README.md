@@ -1,2 +1,17 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23E778F7&center=true&vCenter=true&lines=Russian+14+y.o.+vodka+enjoyer+%F0%9F%87%B7%F0%9F%87%BA;GNU%2FLinux++%F0%9F%96%A4%F0%9F%92%9C%F0%9F%92%9B)](https://git.io/typing-svg)
-# ![Jokes Card](https://readme-jokes.vercel.app/api)
+![](/h.gif)
+
+### こんにちは 👋, I'm Bassist228!
+#### I am GNU/Linux Enthusiast and beginner Python developer.
+
+I'm Bassist228 I'm a GNU/Linux enthusiast from Russia.
+I love programming, music, and anime girls.
+In my free time I play in Beatdown HC band, play some old school video games and watch anime.
+Currently I'm studying:
+* Python
+* React.js
+* Node.js
+* Bash
+* PostgreSQL
+* Docker
+
+![](/f.gif)
