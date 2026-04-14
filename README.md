@@ -1,5 +1,5 @@
 # 👨‍💻 Bassist228's DevOps Journey
-[![PC](https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif)
+![PC](https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif)
 
 Hi there! 👋 I'm Bassist228, a **beginner DevOps engineer** learning to build reliable, scalable systems. Currently diving into:
 
